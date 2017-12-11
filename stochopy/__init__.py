@@ -13,4 +13,4 @@ from .evolutionary_algorithm import Evolutionary
 from .benchmark_functions import BenchmarkFunction
 
 __all__ = [ "MonteCarlo", "Evolutionary", "BenchmarkFunction" ]
-__version__ = "1.5.2"
+__version__ = "1.6.0"
